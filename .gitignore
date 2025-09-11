@@ -1,0 +1,33 @@
+# Environment files
+.env
+.env.local
+.env.production
+.env.staging
+
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Translation reports
+*.report.json
+
+# Temporary files
+*.tmp
+*.temp
+
